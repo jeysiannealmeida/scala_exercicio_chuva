@@ -14,9 +14,10 @@ Dependências:
 * Node/npm
 * Cypress
 
-''
+
 PARA LIGAR O SERVIDOR 
-node server.js
+
+``` node server.js ```
 
 Rode o seguinte comando para instalar o ambiente:
 
